@@ -23,4 +23,4 @@ It showcases a personal portfolio using basic web technologies.
 - Improved practical coding skills
 
 ## Author
-Suraj Nilkhan
+Rahul Patil 
